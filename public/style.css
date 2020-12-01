@@ -1,0 +1,15 @@
+/* footer{
+    background-color:#26272b;
+  padding:45px auto 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+};
+*/
+footer{
+  background-color: rgba (0,0,255,0.7);
+  height: 50px;
+  width: 100%;
+  margin-top: 25px;
+  text-align: center;
+}
